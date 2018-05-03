@@ -51,4 +51,4 @@ htmlParse is designed to work with html documents from "BSB Bank".
 ## Getting started:
 1. You can download CustomParserLibrary jar (or it add to your Maven/Gradle build)
 2. Read the documentation
-3. Enjoy!
+3. Enjoy !
